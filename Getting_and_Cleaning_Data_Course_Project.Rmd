@@ -12,7 +12,7 @@ output:
 All of my input data is inside a `R/Getting_and_Cleaning_Data_Course_Project/` directory, so I first set my working dir to `R/Getting_and_Cleaning_Data_Course_Project/UCI HAR Dataset` in order to easily load data.
 
 According to the *README.txt* file contained in the downloaded archive, the original dataset is splitted into **training** and **test** data.
-Each one again splittein into three files containing respectively:
+Each one again splitted into three files containing respectively:
 	1. all of the estimators collected, 
 	2. training labels, i.e the activities
 	3. subjects who performed the activities
